@@ -1,6 +1,6 @@
 # 📊 MySQL Database Project  
 
-This project was developed as part of the **Meta Database Engineer Specialization (Coursera)**.  
+
 It demonstrates **database design, implementation, and management** using **MySQL** with a focus on real-world applications.  
 
 ---
