@@ -39,7 +39,7 @@ It demonstrates **database design, implementation, and management** using **MySQ
 ---
 
 ## 📖 Certifications  
-- [HackerRank SQL (Advanced)](https://www.hackerrank.com/certificates/iframe/c02f50aad90d)  
+- [HackerRank SQL (Advanced)](https://www.hackerrank.com/certificates/c02f50aad90d)  
 - [Meta Database Engineer Specialization](https://www.coursera.org)
 
 ---
