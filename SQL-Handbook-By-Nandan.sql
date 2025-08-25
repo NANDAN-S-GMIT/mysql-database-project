@@ -294,6 +294,7 @@ JOIN dept_avg d ON e.department = d.department;
 /*
 ========================================================
  END OF PROFESSIONAL SQL HANDBOOK
- Author: Nandan S
+ Authored by: Nandan S 
+ Thank you for reading!  
 ========================================================
 */
